@@ -1,0 +1,2 @@
+Kolmas testitiedosto VS:llä.
+From VS to GitHub.
